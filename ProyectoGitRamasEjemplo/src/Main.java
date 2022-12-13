@@ -9,6 +9,8 @@ System.out.println("Saludos mundo");
 	
 System.out.println("Wola mundo");
 
+System.out.println("Otro mensaje");
+
 System.out.println("Hola mundo");
 	}
 	public static void imprimeSaludo() { 
